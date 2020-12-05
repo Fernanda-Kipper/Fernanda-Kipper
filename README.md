@@ -15,12 +15,13 @@
 - Atualmente estou trabalhando em projetos relacionados a minha bolsa de Desenvolvimento Tecnológico.
 - Sempre em busca do conhecimento, aprendizado e experiências ✨
 
-### Minhas principais habilidades em tecnologia são
+### Meus conhecimentos mais fortes em tecnologia são
 <img src="./code.svg" width="100px" align="right"/>
-- Javascript.
+<br />
 - HTML e CSS.
+- JavaScript (Node.js seus frameworks). 
 - SQL.
-- Programaçao Orientada Objetos.
+- Programação Orientada Objetos.
 
 <!--
 **Fernanda-Kipper/Fernanda-Kipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
