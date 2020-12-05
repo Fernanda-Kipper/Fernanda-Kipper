@@ -16,11 +16,11 @@
 - Sempre em busca do conhecimento, aprendizado e experiências ✨
 
 ### Minhas principais habilidades são: 
-<img src="./code.svg" width="200px" align="right"/>
--Javascript 
-- HTML e CSS
-- SQL
-- Programaçao Orientada Objetos
+<img src="./code.svg" width="100px" align="right"/>
+-Javascript.
+- HTML e CSS.
+- SQL.
+- Programaçao Orientada Objetos.
 
 <!--
 **Fernanda-Kipper/Fernanda-Kipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
