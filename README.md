@@ -1,4 +1,4 @@
-### Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Olá! <img src="https://www.flaticon.com/svg/static/icons/svg/40/40021.svg" width="30px">
 
 <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
   <img align="left" alt="Linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" />
@@ -15,6 +15,12 @@
 - Atualmente estou trabalhando em projetos relacionados a minha bolsa de Desenvolvimento Tecnológico.
 - Sempre em busca do conhecimento, aprendizado e experiências ✨
 
+### Minhas principais habilidades são: 
+<img src="./code.svg" width="200px" align="right"/>
+-Javascript 
+- HTML e CSS
+- SQL
+- Programaçao Orientada Objetos
 
 <!--
 **Fernanda-Kipper/Fernanda-Kipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
