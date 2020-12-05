@@ -15,9 +15,9 @@
 - Atualmente estou trabalhando em projetos relacionados a minha bolsa de Desenvolvimento Tecnológico.
 - Sempre em busca do conhecimento, aprendizado e experiências ✨
 
-### Minhas principais habilidades são: 
+### Minhas principais habilidades em tecnologia são
 <img src="./code.svg" width="100px" align="right"/>
--Javascript.
+- Javascript.
 - HTML e CSS.
 - SQL.
 - Programaçao Orientada Objetos.
