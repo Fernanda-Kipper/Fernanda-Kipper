@@ -16,8 +16,6 @@
 - Sempre em busca do conhecimento, aprendizado e experiências ✨
 
 ### Meus conhecimentos mais fortes em tecnologia são
-<img src="./code.svg" width="100px" align="right"/>
-<br />
 - HTML e CSS.
 - JavaScript (Node.js seus frameworks). 
 - SQL.
