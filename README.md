@@ -1,7 +1,7 @@
 ### Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
-  <img align="left" alt="Linkedin logo" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" />
+  <img align="left" alt="Linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" />
 </a>
 <a href="https://nanda-kipper.medium.com/">
   <img align="left" alt="Medium logo" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg" />
