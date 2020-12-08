@@ -22,5 +22,6 @@
 - HTML e CSS
 - JavaScript (Node.js seus frameworks)
 - SQL
+- Typescript
 - Programação Orientada Objetos
 - Python
