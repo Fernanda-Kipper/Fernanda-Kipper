@@ -20,7 +20,7 @@
 
 ### Minhas principais skills são:
 - HTML e CSS
-- JavaScript (Node.js seus frameworks)
+- JavaScript e Node.js seus frameworks
 - SQL
 - Typescript
 - Programação Orientada Objetos
