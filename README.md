@@ -18,7 +18,7 @@
 - Atualmente estou trabalhando em projetos relacionados a minha bolsa de Desenvolvimento Tecnológico concedida pela FAPERGS, fazendo parte de um grupo de pesquisadores da universidade, CrIE 🔍
 - Sempre em busca do conhecimento, aprendizado e experiências ✨
 
-<img src="./code.svg" width="100px" align="right"/>
+<img src="./codeSource.svg" width="100px" align="right"/>
 <br />
 
 ### Minhas principais skills são:
