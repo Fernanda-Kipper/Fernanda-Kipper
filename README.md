@@ -7,7 +7,7 @@
   <img align="left" alt="Medium logo" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg" />
 </a>
 <a href="https://fernanda-kipper.github.io/">
-  <img align="left" alt="Meu site logo" width="24px" src="./meulogo.svg" />
+  <img align="left" alt="Meu site logo" width="30px" src="./meulogo.svg" />
 </a>
 <br />
 <img align="right" alt="Code girl image" src="./codeGirl.svg"  width="300px"/>
