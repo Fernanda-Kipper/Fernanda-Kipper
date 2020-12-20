@@ -28,3 +28,5 @@
 - Typescript
 - Programação Orientada Objetos
 - Python
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper)](https://github.com/Fernanda-Kipper/Fernanda-Kipper)
