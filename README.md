@@ -15,7 +15,7 @@
 ### Me chamo Fernanda Kipper
 - Estudante de graduação em Ciência da Computação.
 - Amante do desenvolvimento web. 
-- Atualmente estou trabalhando em projetos relacionados a minha bolsa de Desenvolvimento Tecnológico concedida pela FAPERGS, fazendo parte de um grupo de pesquisadores da universidade, CrIE 🔍
+- Atualmente estou trabalhando em projetos relacionados a minha bolsa de Desenvolvimento Tecnológico concedida pela FAPERGS, fazendo parte de um grupo de pesquisadores da universidade, [CrIE](crie.space) 🔍
 - Sempre em busca do conhecimento, aprendizado e experiências ✨
 
 <img src="./codeSource.svg" width="100px" align="right"/>
