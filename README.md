@@ -10,7 +10,7 @@
   <img align="left" alt="Meu site logo" width="30px" src="./meulogo.svg" />
 </a>
 <br />
-<img align="right" alt="Code Girl image" src="./codegirl.svg"  width="300px"/>
+<img align="right" alt="Code Girl image" src="./codeGirl.png"  width="300px"/>
 
 ### Me chamo Fernanda Kipper
 - Estudante de graduação em Ciência da Computação.
