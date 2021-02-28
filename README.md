@@ -19,11 +19,11 @@
 - Sempre em busca do conhecimento, aprendizado e experiências ✨
 
 ### Minhas principais skills são:
-- HTML e CSS
-- JavaScript (frameworks como: React JS)
-- Node.js  (frameworks como: Express)
-- SQL
+- HTML
+- CSS
+- JavaScript 
+- React JS
+- Node.js
 - Typescript
-- Programação Orientada Objetos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper)](https://github.com/Fernanda-Kipper)
