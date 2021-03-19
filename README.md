@@ -1,4 +1,4 @@
-### Olá! <img src="https://www.flaticon.com/svg/vstatic/svg/3898/3898671.svg?token=exp=1615828320~hmac=e11d4296b491d16c99c88eb397a4d92b" width="30px">
+# Olá!
 
 <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
   <img align="left" alt="Linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" />
