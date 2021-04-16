@@ -15,6 +15,7 @@
 ### Me chamo Fernanda Kipper
 - Estudante de graduação em Ciência da Computação.
 - Amante do desenvolvimento web. 
+- Frontend Tech Trainee na Aftersale (React JS | Sass | JS | HTML | CSS ) 💻
 - Atualmente estou trabalhando em projetos relacionados a minha bolsa de Desenvolvimento Tecnológico concedida pela FAPERGS, fazendo parte de um grupo de pesquisadores da universidade, [CrIE](http://crie.space/) 🔍
 - Sempre em busca do conhecimento, aprendizado e experiências ✨
 
