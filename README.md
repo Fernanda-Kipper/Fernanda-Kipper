@@ -15,8 +15,8 @@
 ### Me chamo Fernanda Kipper
 - Estudante de graduação em Ciência da Computação.
 - Amante do desenvolvimento web. 
-- Frontend Tech Trainee na Aftersale (React JS | Sass | JS | HTML | CSS ) 💻
-- Atualmente estou trabalhando em projetos relacionados a minha bolsa de Desenvolvimento Tecnológico concedida pela FAPERGS, fazendo parte de um grupo de pesquisadores da universidade, [CrIE](http://crie.space/) 🔍
+- Frontend Tech Trainee na [Aftersale](https://after.sale/) (React JS | Sass | JS | HTML | CSS | Typescript | Styled Components) 💻
+- Trabalho em projetos relacionados a minha bolsa de Desenvolvimento Tecnológico concedida pela [FAPERGS](https://fapergs.rs.gov.br/inicial), fazendo parte de um grupo de pesquisadores da universidade, [CrIE](http://crie.space/) 🔍 (React JS | JS | HTML | CSS | Typescript | NodeJS)
 - Sempre em busca do conhecimento, aprendizado e experiências ✨
 
 ### Minhas principais skills são:
@@ -24,7 +24,9 @@
 - CSS
 - JavaScript 
 - React JS
-- Node.js
 - Typescript
+- Node.js
+
+### "Eu só me arrependo das coisas que ainda não fiz" 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper)](https://github.com/Fernanda-Kipper)
