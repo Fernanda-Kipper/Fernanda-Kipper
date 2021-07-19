@@ -27,6 +27,4 @@
 - Typescript
 - Node.js
 
-### "Eu só me arrependo das coisas que ainda não fiz" 🚀
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper)](https://github.com/Fernanda-Kipper)
