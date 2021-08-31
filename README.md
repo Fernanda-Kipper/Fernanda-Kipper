@@ -1,16 +1,11 @@
 
 <h1>Hello!</h1>
- <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
-  <img align="left" alt="Linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" />
-</a>
-<a href="https://nanda-kipper.medium.com/">
-  <img align="left" alt="Medium logo" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg" />
-</a>
-<a href="https://fernanda-kipper.github.io/">
-  <img align="left" alt="Fernanda Kipper logo" width="30px" src="./FkLogo.svg" />
-</a>
-  
-</br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Medium&logoColor=white&link=https://nanda-kipper.medium.com/)](https://nanda-kipper.medium.com/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://fernanda-kipper.github.io/)](https://fernanda-kipper.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-nanda.kipper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.kipper@gmail.com)](mailto:nanda.kipper@gmail.com)
+
 <img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
 
 ## My name is Fernanda Kipper
