@@ -11,7 +11,7 @@
 ## My name is Fernanda Kipper
 - Computer Science Student
 - Passionate about web development
-- Frontend Tech Trainee at [Aftersale](https://after.sale/) (React JS | Next JS | Sass | JS | HTML | CSS | Typescript | Styled Components ) 🚀
+- Frontend Developer at [Aftersale](https://after.sale/) (React JS | Next JS | Sass | JS | HTML | CSS | Typescript | Styled Components ) 🚀
 - I work on projects related to my Technological Development scholarship granted by [FAPERGS](https://fapergs.rs.gov.br/inicial), belonging to a group of researchers at the university, [CrIE](http://crie.space/) 🔍 (React JS | JS | HTML | CSS | Typescript | NodeJS)
 - Always thirst for learning, knowledge and experience ✨
 
