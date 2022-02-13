@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Medium&logoColor=white&link=https://nanda-kipper.medium.com/)](https://nanda-kipper.medium.com/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernanda-kipper.github.io/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
 [![Gmail Badge](https://img.shields.io/badge/-nanda.kipper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.kipper@gmail.com)](mailto:nanda.kipper@gmail.com)
 
 <img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
