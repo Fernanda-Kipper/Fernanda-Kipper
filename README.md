@@ -9,7 +9,8 @@
 <img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
 
 ## My name is Fernanda Kipper
-- Frontend Developer at [Aftersale](https://after.sale/) (React JS | Next JS | Sass | JS | HTML | CSS | Typescript | Styled Components | GraphQL | Redux ) 🚀
+(React JS | Next JS | Sass | JS | HTML | CSS | Typescript | Styled Components | GraphQL | Redux ) 🚀
+- Frontend Developer at [Stone](https://www.stone.com.br/)
 - Computer Science Student
 - Passionate about web development
 - I also belong to a group of researchers at the Federal University of Pelotas, called [CrIE](http://crie.space/) 🔍, where i work on projects that seek to use technology to aid education (React JS | JS | HTML | CSS | Typescript | NodeJS)
