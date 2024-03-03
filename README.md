@@ -10,6 +10,7 @@
 ## My name is Fernanda Kipper
 (Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Software Enginner @[Itaú](https://www.itau.com.br/)
+- 🏆 Microsft MVP
 - 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@kipperdev) and share informative content on my [Instagram](https://www.instagram.com/kipper.dev/).
 - 🎓 Computer Science Student @ [UFPEL](https://portal.ufpel.edu.br/)
 - 🌐 Passionate about web development
