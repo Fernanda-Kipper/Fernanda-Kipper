@@ -5,7 +5,6 @@
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:contato@fernandakipper.com)
 
-<img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
 
 ## My name is Fernanda Kipper
 (Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
