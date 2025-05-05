@@ -12,4 +12,4 @@
 - 💡 Adoro um bom desafio
 
 
-<img scr="[https://e7.pngegg.com/pngimages/222/849/png-clipart-discord-twitch-persona-5-video-game-internet-bot-h1z1-smiley-snout.png](https://wallpapers.com/images/hd/funny-discord-profile-pictures-laeo6nwmq05uxkv3.jpg)">
+<img scr="https://wallpapers.com/images/hd/funny-discord-profile-pictures-laeo6nwmq05uxkv3.jpg">
