@@ -7,7 +7,7 @@
 (Java | Javascript | HTML | CSS ) 🚀
 
 
-- 🎓 etudando desenvlovimento de sistema 
+- 🎓 Aluno de Senai Firjan Resende
 - 🌐 Apaixonado por desenvolvimento web
 - 💡 Adoro um bom desafio
 
