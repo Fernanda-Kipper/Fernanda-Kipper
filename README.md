@@ -10,4 +10,6 @@
 - 🎓 Aluno de Senai Firjan Resende
 - 🌐 Apaixonado por desenvolvimento web
 - 💡 Adoro um bom desafio
-https://e7.pngegg.com/pngimages/222/849/png-clipart-discord-twitch-persona-5-video-game-internet-bot-h1z1-smiley-snout.png
+
+
+<img scr="https://e7.pngegg.com/pngimages/222/849/png-clipart-discord-twitch-persona-5-video-game-internet-bot-h1z1-smiley-snout.png">
