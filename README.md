@@ -12,6 +12,4 @@
 - 💡 Adoro um bom desafio
 
 
- 
-https://th.bing.com/th/id/OIP.m_od1_vKAn46m2wmuBsMfAHaKX?rs=1&pid=ImgDetMain
-
+https://wallpapers.com/images/hd/funny-discord-profile-pictures-laeo6nwmq05uxkv3.jpg
