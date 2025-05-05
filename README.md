@@ -12,7 +12,7 @@
 - 💡 Adoro um bom desafio
 
 <div>
-<img scr="https://i.pinimg.com/474x/af/34/0f/af340f682940be93a688853d8d9b927f.jpg?nii=t">
+<img scr="https://th.bing.com/th/id/OIP.Bcz28ILc8M1h0wSnuU-GKwAAAA?rs=1&pid=ImgDetMain">
 
   
 </div>
