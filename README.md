@@ -1,29 +1,18 @@
-<h1 align="center">✨ Fernanda Kipper ✨</h1>
+<h1 align="center">Hello, I'm Fernanda Kipper 👋</h1>
 
 <p align="center">
   <em>Software Engineer • Tech Content Creator • Microsoft MVP</em>
 </p>
 
-<!-- 🎬 Se for GIF -->
-<p align="center">
-  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/assets/bg-ai-animation.gif" alt="AI Generated Background" width="100%" />
-</p>
-
-<!-- OU 🎬 Se for vídeo do YouTube -->
-<!-- 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=SEU_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg" alt="Veja meu vídeo animado com IA" width="100%">
-  </a>
-</p>
--->
-
 ---
 
-<h2 align="center">👋 Hello, world!</h2>
+<p align="center">
+  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/cosmos.gif" alt="AI Generated Background" width="50%" />
+</p>
 
 <p align="center">
-  Sou apaixonada por tecnologia, ensino e criatividade. Aqui você encontra projetos, tutoriais e experimentos com IA, Web, Cloud e muito mais.
+  I'm passionate about technology, education, and creativity.  
+  Here you’ll find projects, tutorials, and experiments with AI, Web, Cloud, and more.
 </p>
 
 <p align="center">
@@ -40,17 +29,17 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+### 👩‍💻 About Me
 
-- 🔭 Software Engineer no [Mercado Livre](https://www.mercadolivre.com.br/)
-- 🎓 Bacharel em Ciência da Computação
-- 🏆 Microsoft MVP em Developer Technologies
-- 🎥 Crio conteúdo sobre programação no [YouTube](https://www.youtube.com/@kipperdev) e [Instagram](https://www.instagram.com/kipper.dev/)
-- 🤳🏻 Cofounder [@usepora](https://usepora.com.br/)
+- 🔭 Software Engineer at [Mercado Libre](https://www.mercadolivre.com.br/)
+- 🎓 Bachelor's degree in Computer Science
+- 🏆 Microsoft MVP in Developer Technologies
+- 🎥 I create programming content on [YouTube](https://www.youtube.com/@kipperdev) and [Instagram](https://www.instagram.com/kipper.dev/)
+- 🤳🏻 Cofounder of [@usepora](https://usepora.com.br/)
 
 ---
 
-### 📊 Tecnologias em destaque
+### 📊 Highlighted Technologies
 
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
