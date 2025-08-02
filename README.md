@@ -31,11 +31,11 @@
 
 ### 🧠 About Me
 
+- ✨ Cofounder of [@usepora](https://usepora.com.br/)
 - 🔭 Software Engineer at [Mercado Libre](https://www.mercadolivre.com.br/)
 - 🧑‍🏫 Bachelor's in Computer Science
-- 🏆 Microsoft MVP in Developer Technologies
+- 🏆 1x Microsoft MVP in Developer Technologies
 - 📹 I create dev content on [YouTube](https://www.youtube.com/@kipperdev) and [Instagram](https://www.instagram.com/kipper.dev/)
-- ✨ Cofounder of [@usepora](https://usepora.com.br/)
 
 ---
 
