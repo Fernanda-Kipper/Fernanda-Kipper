@@ -13,13 +13,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00ff99?style=flat-square&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-7500AB?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="https://fernandakipper.com/">
-    <img src="https://img.shields.io/badge/-Website-00ff99?style=flat-square&logo=Google-Chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/-Website-7500AB?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
   <a href="mailto:contato@fernandakipper.com">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00ff99?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-7500AB?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
 
@@ -48,6 +48,8 @@
 <p align="center">
   <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="200px" alt="commit gif looping" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Kipper&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
