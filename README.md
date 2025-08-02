@@ -4,22 +4,26 @@
   <em>Software Engineer • Tech Content Creator • 1x Microsoft MVP</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
+
 ---
 
 <p align="center">
   I'm passionate about technology, education, and creativity.  
-  Here you’ll find projects, tutorials, and experiments with AI, Web, Cloud, and more.
+  Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :)
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
-    <img src="https://img.shields.io/badge/-LinkedIn-7500AB?style=flat-square&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="https://fernandakipper.com/">
-    <img src="https://img.shields.io/badge/-Website-7500AB?style=flat-square&logo=Google-Chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
   <a href="mailto:contato@fernandakipper.com">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-7500AB?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
 
@@ -46,10 +50,8 @@
 ### 🟩 Latest Commit Energy
 
 <p align="center">
-  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="200px" alt="commit gif looping" />
-</p>
-
 <img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Kipper&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
 
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
