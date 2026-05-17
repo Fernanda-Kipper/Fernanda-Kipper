@@ -31,27 +31,10 @@
 
 ### 🧠 About Me
 
-- ✨ Cofounder of [@usepora](https://usepora.com.br/)
-- 🔭 Software Engineer at [Mercado Libre](https://www.mercadolivre.com.br/)
+- ✨ Founder of [@usepora](https://usepora.com.br/)
+- 📹 Share some cool content on my [YouTube](https://www.youtube.com/@kipperdev) and [Instagram](https://www.instagram.com/kipper.dev/)
 - 🧑‍🏫 Bachelor's in Computer Science
 - 🏆 1x Microsoft MVP in Developer Technologies
-- 📹 I create dev content on [YouTube](https://www.youtube.com/@kipperdev) and [Instagram](https://www.instagram.com/kipper.dev/)
-
----
-
-### 💻 Tech Stack Highlights
-
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
-
----
-
-### 🟩 Latest Commit Energy
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Kipper&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-</p>
 
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
