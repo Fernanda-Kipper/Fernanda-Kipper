@@ -31,7 +31,6 @@
 
 ### 🧠 About Me
 
-- ✨ Founder of [@usepora](https://usepora.com.br/)
 - 📹 Share some cool content on my [YouTube](https://www.youtube.com/@kipperdev) and [Instagram](https://www.instagram.com/kipper.dev/)
 - 🧑‍🏫 Bachelor's in Computer Science
 - 🏆 1x Microsoft MVP in Developer Technologies
